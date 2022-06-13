@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/App.css"],"names":[],"mappings":"AAAA,KACE,wBACF,CAEA,QACE,wBACF","file":"main.54deb8fe.chunk.css","sourcesContent":[".App {\n  background-color: lightgrey;\n}\n\n.button {\n  background-color: aquamarine;\n}\n"]}
